@@ -1,4 +1,4 @@
-package com.erick.alura.imc.feature;
+package com.erick.alura.imc;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,8 +8,8 @@ import android.widget.TextView;
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.erick.alura.imc.R;
-import com.erick.alura.imc.model.Person;
+import com.erick.alura.imc.features.Report;
+import com.erick.alura.imc.models.Person;
 import com.erick.alura.imc.util.AppFeedBackUI;
 import com.erick.alura.imc.util.AppNavigateKeys;
 import com.erick.alura.imc.util.CalculatorIMC;

@@ -1,4 +1,4 @@
-package com.erick.alura.imc.model;
+package com.erick.alura.imc.enums;
 
 public enum StatusIMCEnum {
 

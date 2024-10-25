@@ -1,11 +1,10 @@
 package com.erick.alura.imc.util;
 
+import static com.erick.alura.imc.enums.StatusIMCEnum.NORMAL_WEIGHT;
+import static com.erick.alura.imc.enums.StatusIMCEnum.OVERWEIGHT;
+import static com.erick.alura.imc.enums.StatusIMCEnum.UNDERWEIGHT;
 
-import static com.erick.alura.imc.model.StatusIMCEnum.NORMAL_WEIGHT;
-import static com.erick.alura.imc.model.StatusIMCEnum.OVERWEIGHT;
-import static com.erick.alura.imc.model.StatusIMCEnum.UNDERWEIGHT;
-
-import com.erick.alura.imc.model.Person;
+import com.erick.alura.imc.models.Person;
 
 public class CalculatorIMC {
 
